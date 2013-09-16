@@ -1,3 +1,14 @@
+August 2013
+===============
+
+I added sample code for a perlin noise filter. This runs on a mac under lib cinder. The idea came from the beyond fire organization that did the tangoed up in blues dome at burning man this year.
+
+I also added the source code for the beaglebone version - which is much faster and raises the ceiling on the kinds of effects I can run.
+
+
+August 2008
+===============
+
 This is the source code for a lightsuit.
 
 The lights are from CoolNeon in Oakland.
